@@ -1,0 +1,6 @@
+canvas{
+    border: 1px solid black;
+    position: relative;
+    left: 30%;
+    box-sizing: border-box;
+}
